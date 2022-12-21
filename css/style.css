@@ -37,7 +37,7 @@ body {
 
 .site-logo {
     align-items: relative;
-    margin-top: -70px;
+    margin-top: -90px;
     margin-left: auto;
     margin-right: 0;
 }
@@ -64,7 +64,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 }
 
 body {
-    line-height: 1px;
+    line-height: 1;
 }
 
 ol,ul {
@@ -99,7 +99,7 @@ html {
 
 .header-wrapper {
     border-bottom: 2px solid #3066BE;
-    padding: 60px 0;
+    padding: 10px 0;
     position: relative;
 }
 
@@ -112,7 +112,7 @@ a.toggle-nav {
     height: 46px;
     background: #3066BE;
     text-align: center;
-    line-height: 0px;
+    line-height: 46px;
 }
 
 a.toggle-nav i {
