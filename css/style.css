@@ -7,11 +7,14 @@
 
 iframe {
     align-items: center;
-    position: relative;
+    position: absolute;
+    justify-content: center;
 }
 
 menu {
-    position: relative;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
 }
 
 p, h1, h2, h3, h4 {
