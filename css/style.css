@@ -5,6 +5,14 @@
     :root { font-family: 'Inter var', sans-serif;}
 }
 
+iframe {
+    align-items: center;
+    position: relative;
+}
+
+menu {
+    position: relative;
+}
 
 p, h1, h2, h3, h4 {
 font-family: Inter, sans-serif;
